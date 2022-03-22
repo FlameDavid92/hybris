@@ -1,7 +1,7 @@
 /log
 /temp
-/bin/
-!/bin/custom
 /roles
 /data/hsqldb/mydb.data
 /data/hsqldb/mydb.lck
+bin/modules/
+bin/platform/
