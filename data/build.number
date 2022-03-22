@@ -1,9 +1,9 @@
 #Ant properties
-#Tue Mar 22 14:56:33 CET 2022
+#Tue Mar 22 15:18:12 CET 2022
 build.version=2011.19
 build.vendor=hybris
 build.group.id=de.hybris.platform
 build.module.name=platform-module
-build.builddate=20220322 1456
+build.builddate=20220322 1518
 build.version.api=2011
 build.releasedate=20220302 2323
