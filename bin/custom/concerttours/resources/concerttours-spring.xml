@@ -8,23 +8,6 @@
            http://www.springframework.org/schema/context/spring-context-3.1.xsd">
 	<context:component-scan base-package="concerttours" />
 
-	<alias name="defaultBandFacade" alias="bandFacade" />
-	<bean id="defaultBandFacade" class="concerttours.facades.impl.DefaultBandFacade">
-		<property name="bandService" ref="bandService" />
-	</bean>
-
-	<alias name="defaultTourFacade" alias="tourFacade" />
-	<bean id="defaultTourFacade" class="concerttours.facades.impl.DefaultTourFacade">
-		<property name="productService" ref="productService" />
-	</bean>
-
-	<alias name="defaultBandService" alias="bandService" />
-	<bean id="defaultBandService" class="concerttours.service.impl.DefaultBandService">
-		<property name="bandDAO" ref="bandDAO" />
-	</bean>
-
-	<bean id="concertDaysUntilAttributeHandler" class="concerttours.attributehandlers.ConcertDaysUntilAttributeHandler"/>
-
 	<!--
 	The hybris platform provides one single Spring application context for beans located at the jalo layer.
 	Each extension can add beans to this context by specifying them at this configuration file.
@@ -102,4 +85,24 @@
 		<property name="flexibleSearchService" ref="flexibleSearchService" />
 	</bean>
 
+	<alias name="defaultBandFacade" alias="bandFacade" />
+	<bean id="defaultBandFacade" class="concerttours.facades.impl.DefaultBandFacade">
+		<property name="bandService" ref="bandService" />
+	</bean>
+
+	<alias name="defaultTourFacade" alias="tourFacade" />
+	<bean id="defaultTourFacade" class="concerttours.facades.impl.DefaultTourFacade">
+		<property name="productService" ref="productService" />
+	</bean>
+
+	<alias name="defaultBandService" alias="bandService" />
+	<bean id="defaultBandService" class="concerttours.service.impl.DefaultBandService">
+		<property name="bandDAO" ref="bandDAO" />
+	</bean>
+
+	<bean id="concertDaysUntilAttributeHandler" class="concerttours.attributehandlers.ConcertDaysUntilAttributeHandler" />
+
+	<bean id="concerttourEventListener" class="concerttours.events.NewBandEventListener" parent="abstractEventListener">
+		<property name="modelService" ref="modelService" />
+	</bean>
 </beans>
