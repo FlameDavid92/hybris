@@ -1,7 +1,6 @@
 /log
 /temp
 /roles
-/data/hsqldb/mydb.data
-/data/hsqldb/mydb.lck
+/data/hsqldb
 bin/modules/
 bin/platform/
