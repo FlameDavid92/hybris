@@ -10,9 +10,12 @@
 
 		<!-- concerttours custom extension -->
     	<extension dir="../custom/concerttours"/>
+
+		<extension name="platformbackoffice"/> 
 										
 		<!-- modules/platform -->
 		<extension name="yempty" />
+		<extension name="yhacext" />
 
 										
 		<!-- modules/backoffice-framework -->
