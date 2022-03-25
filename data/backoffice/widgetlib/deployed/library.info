@@ -1,3 +1,18 @@
 #This files was generated. Do not change anything since it will be overwritten.
-#Fri Mar 25 09:51:18 CET 2022
+#Fri Mar 25 17:55:12 CET 2022
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\basecommercebackoffice.jar=extension\://basecommercebackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\solrfacetsearchbackoffice.jar=extension\://solrfacetsearchbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\adaptivesearchbackoffice.jar=extension\://adaptivesearchbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\commerceservicesbackoffice.jar=extension\://commerceservicesbackoffice
 C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\platformbackoffice.jar=extension\://platformbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\mediaconversionbackoffice.jar=extension\://mediaconversionbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\cmsbackoffice.jar=extension\://cmsbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\personalizationintegrationbackoffice.jar=extension\://personalizationintegrationbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\personalizationcmsbackoffice.jar=extension\://personalizationcmsbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\personalizationsearchbackoffice.jar=extension\://personalizationsearchbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\voucherbackoffice.jar=extension\://voucherbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\customersupportbackoffice.jar=extension\://customersupportbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\apiregistrybackoffice.jar=extension\://apiregistrybackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\promotionsbackoffice.jar=extension\://promotionsbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\searchbackoffice.jar=extension\://searchbackoffice
+C\:\\SAPCommerce\\hybris\\data\\backoffice\\widgetlib\\deployed\\personalizationservicesbackoffice.jar=extension\://personalizationservicesbackoffice

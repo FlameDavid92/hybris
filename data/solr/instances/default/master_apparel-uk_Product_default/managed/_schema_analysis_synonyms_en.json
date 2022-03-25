@@ -1,0 +1,12 @@
+{
+  "initArgs":{"ignoreCase":"true"},
+  "initializedOn":"2022-03-25T13:22:44.854Z",
+  "updatedSinceInit":"2022-03-25T13:25:20.310Z",
+  "managedMap":{
+    "glasses":["sunglasses"],
+    "hats":["caps"],
+    "shades":["sunglasses"],
+    "shoes":["shoe"],
+    "sneaker":["shoe"],
+    "sneakers":["shoe"],
+    "trainer":["shoe"]}}

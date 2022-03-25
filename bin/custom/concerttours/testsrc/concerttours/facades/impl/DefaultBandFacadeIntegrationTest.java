@@ -39,7 +39,7 @@ public class DefaultBandFacadeIntegrationTest extends ServicelayerTransactionalT
     /** Albums sold by test band. */
     private static final Long ALBUMS_SOLD = Long.valueOf(10L);
     @Before
-    public void setUp()
+    public void setUp() throws Exception
     {
         try {
             Thread.sleep(TimeUnit.SECONDS.toMillis(1));
@@ -47,6 +47,8 @@ public class DefaultBandFacadeIntegrationTest extends ServicelayerTransactionalT
             Thread.sleep(TimeUnit.SECONDS.toMillis(1));
         }
         catch (InterruptedException exc) {}
+        importCsv("/impex/essentialdata-mediaformats.impex", "UTF-8");
+
         // This instance of a BandModel will be used by the tests
         bandModel = modelService.create(BandModel.class);
         bandModel.setCode(BAND_CODE);
