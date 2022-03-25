@@ -53,11 +53,15 @@
       <change beforePath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/Concert.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/Concert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/ConcerttoursManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/ConcerttoursManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom/concerttours/resources/localization/concerttours-locales_de.properties" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/resources/localization/concerttours-locales_de.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom/concerttours/resources/localization/concerttours-locales_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/resources/localization/concerttours-locales_en.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/custom/concerttours/testsrc/concerttours/facades/impl/DefaultBandFacadeUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/testsrc/concerttours/facades/impl/DefaultBandFacadeUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/backoffice/widgetlib/deployed/library.info" beforeDir="false" afterPath="$PROJECT_DIR$/../data/backoffice/widgetlib/deployed/library.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/build.number" beforeDir="false" afterPath="$PROJECT_DIR$/../data/build.number" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/hsqldb/mydb.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../data/hsqldb/mydb.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/hsqldb/mydb.script" beforeDir="false" afterPath="$PROJECT_DIR$/../data/hsqldb/mydb.script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/media/sys_master/h37/hf1/8796093415454.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/media/sys_master/hee/h3a/8796093349918.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/shutdown.token" beforeDir="false" afterPath="$PROJECT_DIR$/../data/shutdown.token" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,7 +204,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648146864145</updated>
       <workItem from="1648146865296" duration="2594000" />
-      <workItem from="1648149514144" duration="3699000" />
+      <workItem from="1648149514144" duration="4294000" />
     </task>
     <servers />
   </component>
