@@ -3,6 +3,9 @@ package concerttours.facades.impl;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 import de.hybris.bootstrap.annotations.UnitTest;
+import de.hybris.platform.servicelayer.StubLocaleProvider;
+import de.hybris.platform.servicelayer.internal.model.impl.LocaleProvider;
+import de.hybris.platform.servicelayer.model.ItemModelContextImpl;
 import de.hybris.platform.servicelayer.model.ModelService;
 import java.util.ArrayList;
 import java.util.List;
@@ -24,6 +27,8 @@ public class DefaultBandFacadeUnitTest
     private static final String BAND_NAME = "Ladies of Rock";
     private static final Long ALBUMS_SOLD = Long.valueOf(42000l);
     private static final String BAND_HISTORY = "All female rock band formed in Munich in the late 1990s";
+    private static final LocaleProvider LOCALE_PROVIDER = new StubLocaleProvider(Locale.ENGLISH);
+
     // Convenience method for returning a list of Band
     private List<BandModel> dummyDataBandList()
     {
@@ -41,6 +46,7 @@ public class DefaultBandFacadeUnitTest
         band.setName(BAND_NAME);
         band.setAlbumSales(ALBUMS_SOLD);
         band.setHistory(BAND_HISTORY);
+        ((ItemModelContextImpl) band.getItemModelContext()).setLocaleProvider(LOCALE_PROVIDER);
         return band;
     }
     @Before
@@ -86,6 +92,7 @@ public class DefaultBandFacadeUnitTest
         Assert.assertEquals(band.getAlbumSales(), dto.get(0).getAlbumsSold());
         Assert.assertEquals(band.getHistory(), dto.get(0).getDescription());
     }
+
     @Test
     public void testGetBand()
     {
