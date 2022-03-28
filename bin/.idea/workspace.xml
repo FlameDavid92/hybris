@@ -2,109 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cbb985a-8108-4b5b-a3a6-c070e39bb38f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/bigbandBig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/bigbandSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/danceBig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/danceSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/jazzBig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/jazzSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/omphaBig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/omphaSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/orchestraBig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/orchestraSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/rockBig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/bandimages/rockSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/resources/impex/essentialdata-mediaformats.impex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom/concerttours/testsrc/concerttours/constraints/NotLoremIpsumConstraintTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/contractions_ca.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/contractions_fr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/contractions_ga.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/contractions_it.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/hyphenations_ga.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stemdict_nl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stoptags_ja.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_ar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_bg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_ca.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_cz.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_da.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_de.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_el.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_en.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_es.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_eu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_fa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_fi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_fr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_ga.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_gl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_hi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_hu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_hy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_id.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_it.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_ja.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_lv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_nl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_no.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_pt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_ro.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_ru.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_sv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_th.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/stopwords_tr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/lang/userdict_ja.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/protwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/schema.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/solrconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/stopwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/configsets/default/conf/synonyms.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/security.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/solr.p12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/solr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/solr_client.p12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config/solr/instances/default/zoo.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom/concerttours/testsrc/concerttours/facades/impl/DefaultBandFacadeIntegrationWithPropertiesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/classes/concerttours/facades/impl/DefaultBandFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/classes/concerttours/facades/impl/DefaultBandFacade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/classes/concerttours/facades/impl/DefaultBandFacadeIntegrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/classes/concerttours/facades/impl/DefaultBandFacadeIntegrationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/classes/concerttours/jalo/Band.class" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/classes/concerttours/jalo/Band.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/classes/concerttours/service/impl/DefaultBandServiceIntegrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/classes/concerttours/service/impl/DefaultBandServiceIntegrationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/constants/GeneratedConcerttoursConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/constants/GeneratedConcerttoursConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/Band.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/Band.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/Concert.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/Concert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/ConcerttoursManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/ConcerttoursManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/News.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/NotLoremIpsumConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/gensrc/concerttours/jalo/NotLoremIpsumConstraint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/resources/concerttours-beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours-beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/resources/concerttours-items.xml" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours-items.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom/concerttours/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/project.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/custom/concerttours/resources/concerttours-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/concerttours-testclasses.xml" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/resources/concerttours/concerttours-testclasses.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/resources/impex/concerttours-bands.impex" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/resources/impex/concerttours-bands.impex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/resources/impex/essentialdata-constraints.impex" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/resources/impex/essentialdata-constraints.impex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/custom/concerttours/src/concerttours/facades/impl/DefaultBandFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/src/concerttours/facades/impl/DefaultBandFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/testsrc/concerttours/facades/impl/DefaultBandFacadeIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/testsrc/concerttours/facades/impl/DefaultBandFacadeIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/testsrc/concerttours/service/impl/DefaultBandServiceIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/testsrc/concerttours/service/impl/DefaultBandServiceIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/web/webroot/WEB-INF/views/BandDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/web/webroot/WEB-INF/views/BandDetails.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom/concerttours/web/webroot/WEB-INF/views/BandList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/custom/concerttours/web/webroot/WEB-INF/views/BandList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/localextensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config/localextensions.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/backoffice/widgetlib/deployed/library.info" beforeDir="false" afterPath="$PROJECT_DIR$/../data/backoffice/widgetlib/deployed/library.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/build.number" beforeDir="false" afterPath="$PROJECT_DIR$/../data/build.number" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/hsqldb/mydb.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../data/hsqldb/mydb.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/hsqldb/mydb.script" beforeDir="false" afterPath="$PROJECT_DIR$/../data/hsqldb/mydb.script" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/hybristomcat.java.id" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/hybristomcat.java.pid" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/hybristomcat.java.status" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/hybristomcat.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/media/sys_master/backofficeconfiguration/h6c/h4d/8796125921310.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/media/sys_master/backofficeconfiguration/h79/hd0/8796125986846.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/media/sys_master/h5f/ha2/8796098527262.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/media/sys_master/h8c/hb3/8796099411998.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/media/sys_master/hf9/h91/8796098920478.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/media/sys_master/impex/h96/he3/8796100034590.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/media/sys_master/impex/hf4/hb8/8796100198430.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data/shutdown.token" beforeDir="false" afterPath="$PROJECT_DIR$/../data/shutdown.token" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Impex File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -259,6 +168,7 @@
       <workItem from="1648209945792" duration="1405000" />
       <workItem from="1648216898669" duration="6162000" />
       <workItem from="1648226577243" duration="680000" />
+      <workItem from="1648450779184" duration="455000" />
     </task>
     <servers />
   </component>
